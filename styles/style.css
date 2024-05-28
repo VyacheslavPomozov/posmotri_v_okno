@@ -80,6 +80,7 @@ ol {
 }
 
 .result__video-container {
+  position: relative;
   display: flex;
   block-size: 100%;
   inline-size: auto;
