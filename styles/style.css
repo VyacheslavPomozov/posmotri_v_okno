@@ -198,7 +198,6 @@ ol {
 
 .search-form__label {
   display: flex;
-  width: fit-content;
   cursor: pointer;
 }
 
@@ -224,7 +223,7 @@ ol {
 }
 
 .search-form__label:has(:focus-visible) {
-  outline: 1px solid currentColorf;
+  outline: 1px solid currentColor;
   outline-offset: 1px;
 }
 
