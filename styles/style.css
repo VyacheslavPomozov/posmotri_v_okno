@@ -159,7 +159,12 @@ ol {
   outline: 1px solid currentColor;
 }
 
+.content__card-link:active {
+  background: #545050;
+}
+
 .content__video-card-title {
+  width: 200px;
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 30px;
